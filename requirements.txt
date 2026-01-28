@@ -5,3 +5,4 @@ langgraph
 langchain-openai
 pygraphviz
 langgraph-checkpoint-sqlite
+tavily-python
