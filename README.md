@@ -59,6 +59,8 @@ To execute the agent, initialize the graph with a checkpointer and provide a `th
 # Configure the thread for persistence
 thread = {"configurable": {"thread_id": "research_session_001"}}
 
+```
+
 # Define the initial state
 inputs = {
     'task': "The role of Transformers in scRNA-seq classification",
