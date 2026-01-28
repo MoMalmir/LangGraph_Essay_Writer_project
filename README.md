@@ -62,11 +62,14 @@ thread = {"configurable": {"thread_id": "research_session_001"}}
 ```
 
 # Define the initial state
+```python
 inputs = {
     'task': "The role of Transformers in scRNA-seq classification",
     "max_revisions": 2,
     "revision_number": 0,
 }
+
+```
 
 # Execute the graph
 for event in graph.stream(inputs, thread):
