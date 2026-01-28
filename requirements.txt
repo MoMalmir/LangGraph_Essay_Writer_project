@@ -4,3 +4,4 @@ langchain-core
 langgraph
 langchain-openai
 pygraphviz
+langgraph-checkpoint-sqlite
