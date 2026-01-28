@@ -1,0 +1,6 @@
+langchain 
+langchain_community 
+langchain-core
+langgraph
+langchain-openai
+pygraphviz
