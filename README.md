@@ -72,9 +72,11 @@ inputs = {
 ```
 
 # Execute the graph
+```python
 for event in graph.stream(inputs, thread):
     print(event)
 
+```
 
 ##  Key Technical Concepts
 
