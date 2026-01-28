@@ -1,3 +1,3 @@
 # LangGraph_Essay_Writer_project
 
-![essay writer workflow](assets/essay_writer.png)
+![essay writer workflow](assets/workflow.png)
