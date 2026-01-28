@@ -1,6 +1,3 @@
-# LangGraph_Essay_Writer_project
-
-
 
 # Iterative Multi-Agent Essay Writer
 
@@ -46,7 +43,7 @@ The agent does not stop after the first draft. It enters a **Conditional Loop**:
 ### 1. Installation
 ```bash
 pip install -U langchain langgraph langchain-openai tavily-python pydantic
-
+```
 ### 2. Environment Setup
 You must provide your API keys. If you are using GitHub Codespaces, add these to your **Secrets**; otherwise, set them in your terminal or a `.env` file:
 
