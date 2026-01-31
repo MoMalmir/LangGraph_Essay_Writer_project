@@ -96,11 +96,3 @@ The use of `MemorySaver()` (or `SqliteSaver`) allows the graph to persist its st
 * **Time Travel:** Inspect or "rewind" to previous versions of the essay state for debugging.
 
 
-
----
-
-## Future Improvements
-
-* **Academic Formatting:** Add a dedicated node to format citations in APA/IEEE style using specific bibliography tools.
-* **Multi-Model Routing:** Implement a strategy to use a faster, cheaper model (like Gemini 2.0 Flash) for research tasks and a more powerful model (like Claude 3.5 Sonnet) for the final creative generation.
-* **Custom Tools:** Integrate specialized bioinformatics packages (such as `scTRaCT`) as nodes or tools for domain-specific data validation in technical essays.
